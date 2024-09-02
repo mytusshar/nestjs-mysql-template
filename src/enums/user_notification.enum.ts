@@ -1,0 +1,7 @@
+export enum UserPushNotificationTags {
+    PET = 'PET',
+    ORDER = 'ORDER',
+    APPOINTMENT = 'APPOINTMENT',
+    SERVICE_ORDER = 'SERVICE_ORDER',
+    CONSULTATION_ORDER = 'CONSULTATION_ORDER',
+}
